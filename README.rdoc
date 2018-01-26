@@ -1,8 +1,8 @@
 
-<b>Sujet:Application Web de Covoiturage
+<b>Sujet:Application Web de Covoiturage</b>
 
-<b>Description:
+<b>Description:</b>
 
-<b>Date:mars 2016
+<b>Date:mars 2016</b>
 
-<b>Technologies utilisés : Ruby,Ruby on Rails,googlemaps 
+<b>Technologies utilisés : Ruby,Ruby on Rails,googlemaps </b>
