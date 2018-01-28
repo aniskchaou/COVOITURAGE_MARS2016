@@ -1,8 +1,10 @@
 
 <b>Sujet:Application Web de Covoiturage</b>
 
-<b>Description:</b>
+<b>Description: Ce mini projet a pour but de développer une application web, inspirée du site web « Blablacar » qui a pour objectif de déployer un système qui rend service à la fois aux automobilistes et aux voyageurs pour chaque destination de communiquer, publier, ou consulter des annonces de covoiturage.
+
+Technologies utilisés : Ruby, Ruby on rails, GoogleMaps</b>
 
 <b>Date:mars 2016</b>
 
-<b>Technologies utilisés : Ruby,Ruby on Rails,googlemaps </b>
+
